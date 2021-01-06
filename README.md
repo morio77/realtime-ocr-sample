@@ -1,3 +1,3 @@
 # realtime-ocr-sample
 
-![リアルタイムOCR](リアルタイムOCRのサンプルgif)
+![リアルタイムOCR](リアルタイムOCRのサンプル.gif)
